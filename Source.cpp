@@ -12,7 +12,6 @@
 #define RESET "\033[0m"
 #define WHITE "\033[37m"
 
-
 using namespace std;
 
 enum class Suit {
